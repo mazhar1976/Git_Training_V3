@@ -4,4 +4,7 @@ This is sample file for Training
 
 Hello bhai, I am doing this just to show you assignment , thanks , Maz
 
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+This is SSH Exeercise going on Git Hub
 
