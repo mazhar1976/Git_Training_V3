@@ -1,3 +1,8 @@
+
+GIT Revert Commit 1.....!!!!!!
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
 This is sample file for Training
 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -16,5 +21,6 @@ This is Pull exercise to see in Bash Terminal
 `````````````````````````````````````````````````````````````````````
 
 Hato Bacho, dil jo dukahin aisee batain kabhi na karo.......
+
 
 
