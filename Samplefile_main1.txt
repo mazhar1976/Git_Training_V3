@@ -1,1 +1,5 @@
+<<<<<<< Updated upstream
 This is stash lecture, change in Main file
+=======
+ This is stash Exercise in file 
+>>>>>>> Stashed changes
