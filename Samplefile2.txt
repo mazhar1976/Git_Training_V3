@@ -1,1 +1,11 @@
-This is my 2nd Test file for training
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+					    |
+This is Samplefile2 			    |
+					    |
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+						  |	
+This is modified today in SF2 in develop branch   |
+						  |
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+
