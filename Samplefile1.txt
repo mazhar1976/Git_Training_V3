@@ -1,1 +1,5 @@
+
+This is 2nd Test for Git Reset & Revert 
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 This is my Test file for ttraining
+This is Comaprison Lecture 1
